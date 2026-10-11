@@ -1,8 +1,8 @@
 # 多样的生物群系 · Diverse Biomes
 
-[English](README.md) · 2.4.0 预览版 · 原版可用，GS2 可选
+[English](README.md) · 2.4.1 预览版 · 原版可用，GS2 可选
 
-[下载 2.4.0](https://github.com/cmx00/DiverseBiomes/releases/tag/v2.4.0)
+[下载 2.4.1](https://github.com/cmx00/DiverseBiomes/releases/tag/v2.4.1)
 
 多样的生物群系是《戴森球计划》的植被模组。植物的密度和大小会随地形变化，同一颗星球上可以有草地、密林和稀疏的山坡；不同星球主题分别调整。
 
@@ -73,6 +73,5 @@ BepInEx/plugins/DiverseBiomes/DiverseBiomes.GalacticScale.dll
 
 配置文件沿用 `BepInEx/config/cmx.LivingWorlds.cfg`，以读取旧设置。换用本包前停用旧 LivingWorlds、GiantPlants 和 VegetationProtection，避免重复修改。
 
-无 GS2 加载、原版主题识别、设置保存与恢复、切换存档和可选适配器的针对性检查已通过。完整游戏内的画面、建造和保存后重载仍需验证，因此当前以预览版发布。
 
-编译见 [BUILDING.md](BUILDING.md)。反馈问题时请附主题、行星半径、种子、是否使用 GS2 和截图。源码采用 [MIT 许可](LICENSE)，代码来源与图片说明见 [NOTICE.md](NOTICE.md)。
+编译见 [BUILDING.md](BUILDING.md)。反馈问题时请附主题、行星半径、种子、是否使用 GS2 和截图。源码采用 [MIT 许可](LICENSE)。

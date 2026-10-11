@@ -1,8 +1,8 @@
 # Diverse Biomes
 
-[简体中文](README.zh-CN.md) · 2.4.0 preview · Works with vanilla; GS2 optional
+[简体中文](README.zh-CN.md) · 2.4.1 preview · Works with vanilla; GS2 optional
 
-[Download 2.4.0](https://github.com/cmx00/DiverseBiomes/releases/tag/v2.4.0)
+[Download 2.4.1](https://github.com/cmx00/DiverseBiomes/releases/tag/v2.4.1)
 
 Diverse Biomes is a vegetation mod for Dyson Sphere Program. Plant density and size vary with terrain, producing meadows, dense woods and sparse slopes on the same planet. Each planet theme has its own settings.
 
@@ -73,6 +73,5 @@ Back up or move DSPModSave's `.moddsv` companion file together with the save. GS
 
 Settings remain in `BepInEx/config/cmx.LivingWorlds.cfg` to preserve older configuration. Disable older LivingWorlds, GiantPlants and VegetationProtection installations before switching to this package.
 
-Targeted checks passed for loading without GS2, vanilla theme recognition, settings round-trips, save switching and the optional adapter. Full in-game appearance, construction and save/reload behavior still need validation, so this is a preview release.
 
-See [BUILDING.md](BUILDING.md) to build from source. Reports should include theme, planet radius, seed, whether GS2 is installed and screenshots. Source is under the [MIT License](LICENSE); code provenance and image rights are described in [NOTICE.md](NOTICE.md).
+See [BUILDING.md](BUILDING.md) to build from source. Reports should include theme, planet radius, seed, whether GS2 is installed and screenshots. Source is under the [MIT License](LICENSE).
