@@ -1,0 +1,10 @@
+{
+  "name": "DiverseBiomes",
+  "version_number": "2.4.0",
+  "website_url": "https://github.com/cmx00/DiverseBiomes",
+  "description": "Terrain-aware plant communities and construction preservation for vanilla galaxies, with optional Galactic Scale theme and ore-placement support.",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.17",
+    "CommonAPI-DSPModSave-1.2.2"
+  ]
+}

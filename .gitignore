@@ -1,0 +1,12 @@
+/artifacts/
+/dist/
+*.dll
+*.pdb
+*.zip
+*.cfg
+*.log
+*.dmp
+.vs/
+.idea/
+bin/
+obj/
